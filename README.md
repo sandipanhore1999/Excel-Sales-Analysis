@@ -36,7 +36,7 @@
 
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
-- - **Solution Approach:** Created essential financial metrics like Net Sales, COGS, Gross Margin; Used these metrics for smart decision-making. 
+- **Solution Approach:** Created essential financial metrics like Net Sales, COGS, Gross Margin; Used these metrics for smart decision-making. 
 
 ## Tools/Features Used:
 - Microsoft Excel
